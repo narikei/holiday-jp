@@ -1,7 +1,5 @@
 package com.ozonicsky.holidayjp;
 
-import sun.util.calendar.CalendarUtils;
-
 import java.util.Calendar;
 
 public enum HolidayJp {
