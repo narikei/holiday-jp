@@ -13,6 +13,7 @@
     <url>https://github.com/narikei/holiday-jp</url>
 
     <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <github.global.server>github</github.global.server>
     </properties>
 
