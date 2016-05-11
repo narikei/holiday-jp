@@ -14,12 +14,6 @@
 
     <properties>
         <github.global.server>github</github.global.server>
-        <!-- Github リポジトリ名 -->
-        <github.global.repositoryName>holiday-jp</github.global.repositoryName>
-        <!-- Github リポジトリユーザー名、または Organization 名 -->
-        <github.global.repositoryOwner>narikei/</github.global.repositoryOwner>
-
-        <github.global.oauth2Token>b487d60d7bbd0cc44a15bb1f40eb9e4740be76dc</github.global.oauth2Token>
     </properties>
 
     <distributionManagement>
