@@ -34,6 +34,7 @@
                 <configuration>
                     <!-- Git コミットメッセージ -->
                     <message>Maven artifacts for ${project.version}</message>
+                    <noJekyll>true</noJekyll>
                     <!-- distributionManagement の url と一致させる -->
                     <outputDirectory>${project.build.directory}/mvn-repo</outputDirectory>
                     <!-- リモートブランチ名 -->
